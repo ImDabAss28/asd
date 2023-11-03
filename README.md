@@ -1,3 +1,3 @@
 # asd
-$\alpha$ \n
+$\alpha$
 ``` a ```
